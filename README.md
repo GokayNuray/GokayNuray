@@ -29,6 +29,10 @@ Hi, I am Gökay Nuray and I am a 2nd year student at Bilkent University. I love 
 
   In this hackathon we were tasked with creating an e-commercial web app that used the Jotform API as backend in 5 hours. I managed to succesfully integrate Jotform API in my app made by React, and completed most of the bonus tasks. As a reward, I received an invitation for internship at Jotform.
 
+- Kapadokya Hackathon 🏅
+
+  In this hackathon we were tasked with creating an app that solved a problem related to industry or tourism that used AI in 24 hours. My team and I created a smart reservation system that suggested a complete tour package based on user profile and preferences. We created an AI on Google Colab that was trained by previous user and preference data that suggested packages even with little user info then used OpenAI API to generate further insights based on more input from the user optionally and external factors like weather conditions. Our website was made using Next.js in frontend and Supabase in backend. You can visit our project at [hackathon.halenteck.online](https://hackathon.halenteck.online) (I can not guarantee that it will still work at the time you visit it)
+
 - [shop.gokaynu.com](https://github.com/GokayNuray/GokaynuShop) 🛒
 
   This is a mock e-shopping web application I made to learn how to use React. I also used TailwindCSS for the frontend, cloud computing services(Supabase API hidden behind a Cloudflare worker) for backend and Vercel for hosting. This may be my first project that can qualify as completed.
