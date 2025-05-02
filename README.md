@@ -3,8 +3,8 @@ Hi, I am Gökay Nuray and I am a 2nd year student at Bilkent University. I love 
 
 - Web Development
 
-    - Frontend ![image](https://github.com/user-attachments/assets/a18e5412-7b1e-47cb-81b3-28768610f2c6)
- ![image](https://github.com/user-attachments/assets/d8ea155a-5e7d-4851-a943-ebf594bb3c5a)
+    - Frontend ![image](https://github.com/user-attachments/assets/d8ea155a-5e7d-4851-a943-ebf594bb3c5a)
+![image](https://github.com/user-attachments/assets/a18e5412-7b1e-47cb-81b3-28768610f2c6)
 
     - Backend 🗄️ ![image](https://github.com/user-attachments/assets/fc4a6123-0adc-4a90-abe7-17f2cf199e13)
 
@@ -24,6 +24,10 @@ Hi, I am Gökay Nuray and I am a 2nd year student at Bilkent University. I love 
 - Tübitak Bilgem Internship 🧑‍💼
 
   I worked on a web application as a full stack developer. I learned and used Java Spring Boot and PostgreSQL for the backend, and Angular(with HTML, CSS, TS) for the frontend. I experienced a real work environment for the first time and how working on a half-completed project feels like so it was very educational.
+
+- Jotform Hackathon 🏅
+
+  In this hackathon we were tasked with creating an e-commercial web app that used the Jotform API as backend in 5 hours. I managed to succesfully integrate Jotform API in my app made by React, and completed most of the bonus tasks. As a reward, I received an invitation for internship at Jotform.
 
 - [shop.gokaynu.com](https://github.com/GokayNuray/GokaynuShop) 🛒
 
