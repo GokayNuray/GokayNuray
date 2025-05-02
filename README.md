@@ -25,11 +25,11 @@ Hi, I am Gökay Nuray and I am a 2nd year student at Bilkent University. I love 
 
   I worked on a web application as a full stack developer. I learned and used Java Spring Boot and PostgreSQL for the backend, and Angular(with HTML, CSS, TS) for the frontend. I experienced a real work environment for the first time and how working on a half-completed project feels like so it was very educational.
 
-- Jotform Hackathon 🏅
+- [Jotform Frontend Hackathon](https://www.jotform.com/frontend-hackathon-2025/) 🏅
 
   In this hackathon we were tasked with creating an e-commercial web app that used the Jotform API as backend in 5 hours. I managed to succesfully integrate Jotform API in my app made by React, and completed most of the bonus tasks. As a reward, I received an invitation for internship at Jotform.
 
-- Kapadokya Hackathon 🏅
+- [Kapadokya Hackathon](https://kapadokyateknopark.com.tr/hackathon/) 🏅
 
   In this hackathon we were tasked with creating an app that solved a problem related to industry or tourism that used AI in 24 hours. My team and I created a smart reservation system that suggested a complete tour package based on user profile and preferences. We created an AI on Google Colab that was trained by previous user and preference data that suggested packages even with little user info then used OpenAI API to generate further insights based on more input from the user optionally and external factors like weather conditions. Our website was made using Next.js in frontend and Supabase in backend. We received an honorable mention award for our project. You can view it at [hackathon.halenteck.online](https://hackathon.halenteck.online) (I can not guarantee that it will still work at the time you visit)
 
